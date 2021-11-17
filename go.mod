@@ -1,3 +1,3 @@
-module example.com/calculator
+module github.com/nrandre/calculator
 
 go 1.17
